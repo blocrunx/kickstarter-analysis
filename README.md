@@ -12,7 +12,7 @@ The kickstarter data has revealed a number of interesting insights to pass on to
 
 *The data indicate the success of a kickstarter campaign may be correlated to the time of year in which the campaign is launched. The following graph shows campaigns launched in May and June to have a haigher probability of success:
 
-![OutcomesBasedOnLaunchDate](https://github.com/blocrunx/kickstarter-analysis/tree/master/img/OutcomesBasedOnLaunchDate.png)
+![OutcomesBasedOnLaunchDate](https://github.com/blocrunx/kickstarter-analysis/tree/master/img/OutcomesBasedOnLaunchDateA.png)
 
 *The analysis also showed a relationship between the sucess of a campaign and the funding goal although not completely dependent. Failed campaigns were found to have a mean goal of 10 554 pounds where successful campaigns had a mean goal of just 5049 pounds.
 
