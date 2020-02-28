@@ -4,15 +4,15 @@ The kickstarter data has revealed a number of interesting insights to pass on to
 
 *Play Kickstarters in Great Britain were significantly more successful in reaching their goal than the other subcategories in the Theater Category as indicated below:
 
-![TheaterCatOutcomesGB](https://github.com/blocrunx/kickstarter-analysis/tree/master/img/TheaterCatOutcomesGB.png)
+![TheaterCatOutcomesGB.png](https://github.com/blocrunx/kickstarter-analysis/tree/master/img/TheaterCatOutcomesGB.png)
 
 *Here is a visualization of the outcomes of just the Play Kickstarters in Great Britain: 
 
-![PlaysInGBStats](https://github.com/blocrunx/kickstarter-analysis/tree/master/img/PlaysInGBStats.png)
+![PlaysInGBStats.png](https://github.com/blocrunx/kickstarter-analysis/tree/master/img/PlaysInGBStats.png)
 
 *The data indicate the success of a kickstarter campaign may be correlated to the time of year in which the campaign is launched. The following graph shows campaigns launched in May and June to have a haigher probability of success:
 
-![OutcomesBasedOnLaunchDate](https://github.com/blocrunx/kickstarter-analysis/tree/master/img/OutcomesBasedOnLaunchDateA.png)
+![OutcomesBasedOnLaunchDate.png](https://github.com/blocrunx/kickstarter-analysis/tree/master/img/OutcomesBasedOnLaunchDateA.png)
 
 *The analysis also showed a relationship between the sucess of a campaign and the funding goal although not completely dependent. Failed campaigns were found to have a mean goal of 10 554 pounds where successful campaigns had a mean goal of just 5049 pounds.
 
