@@ -12,7 +12,7 @@ The kickstarter data has revealed a number of interesting insights to pass on to
 
 *The data indicate the success of a British kickstarter campaign may be correlated to the time of year in which the campaign is launched. The following graph shows campaigns launched in May and June to have a higher probability of success:
 
-![OutcomesBasedOnLaunchDate](https://github.com/blocrunx/kickstarter-analysis/tree/master/img/OutcomesBasedOnLaunchDateA.png)
+![AnnualLaunchStats](https://github.com/blocrunx/kickstarter-analysis/tree/master/img/AnnualLaunchStats.png)
 
 ### Challenge
 
